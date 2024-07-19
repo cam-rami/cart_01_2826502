@@ -1,0 +1,16 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "enular carrito de compras",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ShoppingCart.js",
+    "dev": "nodemon ShoppingCart.js"
+  },
+  "author": "camila",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
